@@ -1,18 +1,11 @@
 # 🧠 Plagiarism Checker Using KMP  
 
 **Course:** CSE246 – Algorithms  
-**Section:** 2  
 **Semester:** Summer 2025  
-
-**Group:** 06  
-**Submitted by:**  
-- Afra Sultana (2023-3-60-300)  
-- Ahmed (2023-3-60-128)  
-
-**Submitted to:**  
-K.M. Safin Kamal  
-Lecturer, Department of Computer Science and Engineering  
-East West University  
+ 
+**Created by:**  
+- blurry-face 
+- ahmed-mannan  
 
 **Submission Date:** 4th September 2025  
 
